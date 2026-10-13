@@ -2,7 +2,7 @@
   "url": "http://127.0.0.1:8875/",
   "htmlPages": 15,
   "htmlErrors": [],
-  "localReferenceChecks": 512,
+  "localReferenceChecks": 516,
   "links": [
     {
       "source": "404.html",
@@ -2501,6 +2501,30 @@
       "status": 200
     },
     {
+      "source": "docs/交付检查v1.1.md",
+      "reference": "%E8%AF%81%E6%8D%AE/Pages%E6%96%87%E4%BB%B6%E6%A0%B8%E5%AF%B9v1.1.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/Pages%E6%96%87%E4%BB%B6%E6%A0%B8%E5%AF%B9v1.1.json",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.1.md",
+      "reference": "%E8%AF%81%E6%8D%AE/Pages%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A3%80%E6%9F%A5v1.1.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/Pages%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A3%80%E6%9F%A5v1.1.json",
+      "status": 200
+    },
+    {
+      "source": "docs/内容审阅与发布记录v1.1.md",
+      "reference": "%E8%AF%81%E6%8D%AE/Pages%E6%96%87%E4%BB%B6%E6%A0%B8%E5%AF%B9v1.1.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/Pages%E6%96%87%E4%BB%B6%E6%A0%B8%E5%AF%B9v1.1.json",
+      "status": 200
+    },
+    {
+      "source": "docs/内容审阅与发布记录v1.1.md",
+      "reference": "%E8%AF%81%E6%8D%AE/Pages%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A3%80%E6%9F%A5v1.1.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/Pages%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A3%80%E6%9F%A5v1.1.json",
+      "status": 200
+    },
+    {
       "source": "docs/素材与版权说明v1.2.md",
       "reference": "../LICENSE",
       "url": "http://127.0.0.1:8875/LICENSE",
@@ -3079,8 +3103,8 @@
   ],
   "privacySearchMatches": [],
   "pdfTextPagesScanned": 145,
-  "fileCount": 114,
-  "totalBytes": 83430037,
+  "fileCount": 124,
+  "totalBytes": 86960254,
   "largestFile": {
     "file": "books/维尼漫画伴读v1.1.pdf",
     "bytes": 29483731

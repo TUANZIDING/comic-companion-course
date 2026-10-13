@@ -1,0 +1,792 @@
+{
+  "date": "2026-10-14",
+  "base": "https://tuanziding.github.io/comic-companion-course/",
+  "commit": "73e769dd53e3ba684596d1703c8670247f5892b7",
+  "filesChecked": 111,
+  "allMatch": true,
+  "records": [
+    {
+      "file": "404.html",
+      "status": 200,
+      "bytes": 2558,
+      "sha256": "2309900a9139b7d639040582ea513e444729bf2a1799b5b524b0897ff91e5769",
+      "matchesLocal": true
+    },
+    {
+      "file": "LICENSE",
+      "status": 200,
+      "bytes": 20677,
+      "sha256": "f244ccb7f1e025fe4dcfbaf4140f96aee53f57af874ade4a0f68d17f5fe38d2a",
+      "matchesLocal": true
+    },
+    {
+      "file": "README.md",
+      "status": 200,
+      "bytes": 7769,
+      "sha256": "35797570121ca58ba58ff99bef45fd9749441dbf415a0c7c74a7de5f00ea66bc",
+      "matchesLocal": true
+    },
+    {
+      "file": "READMEv1.0.md",
+      "status": 200,
+      "bytes": 4646,
+      "sha256": "69d3d70c289979623e7c8893139cd610ca423c7a8994b28f25a9e7e3dadab5cd",
+      "matchesLocal": true
+    },
+    {
+      "file": "READMEv1.1.md",
+      "status": 200,
+      "bytes": 7769,
+      "sha256": "35797570121ca58ba58ff99bef45fd9749441dbf415a0c7c74a7de5f00ea66bc",
+      "matchesLocal": true
+    },
+    {
+      "file": "books/彼得兔漫画伴读v1.1.pdf",
+      "status": 200,
+      "bytes": 12905244,
+      "sha256": "b4ff4b82e1b20a12853c20d7b6b7fcc03befdbc658151615f95252f7b42ed97d",
+      "matchesLocal": true
+    },
+    {
+      "file": "books/彼得兔漫画伴读预览v1.1.pdf",
+      "status": 200,
+      "bytes": 3854066,
+      "sha256": "e97175cfa35793b82efd0656c3245f087f07a9ef47a920b985d08ba5b802a50d",
+      "matchesLocal": true
+    },
+    {
+      "file": "books/维尼漫画伴读v1.1.pdf",
+      "status": 200,
+      "bytes": 29483731,
+      "sha256": "69d1e3c2b72ff80b842aa2fb8f627a885dfc988fbaee0d6a806d514d0da2ef4e",
+      "matchesLocal": true
+    },
+    {
+      "file": "books/维尼漫画伴读预览v1.1.pdf",
+      "status": 200,
+      "bytes": 8564753,
+      "sha256": "aedee2559173f2bd8f4c483708ac57fd9886da01869921747185919663d0f32c",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/00-课程导览v1.0.html",
+      "status": 200,
+      "bytes": 9587,
+      "sha256": "4c663f6c857faa108f2999c3fd6d6fe82409fead3a99d02cfa71372a21f761c0",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/01-从孩子出发v1.0.html",
+      "status": 200,
+      "bytes": 8890,
+      "sha256": "18d0da5c76513f3ae17f4bb6428b6f270ef7c10d59d91e06778e2bb11c8e5d60",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/02-选书与版权v1.0.html",
+      "status": 200,
+      "bytes": 9915,
+      "sha256": "2f19d3ee860c65880c6c7c753d85ca9351230ac4f751304487cc9d51083b019b",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/03-拆章与改编v1.0.html",
+      "status": 200,
+      "bytes": 9257,
+      "sha256": "cb5c293b301e53e02c9adbd8862226197311d4550c5aaf5b2dea1e2c1697a4c3",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/04-角色设定与一致性v1.0.html",
+      "status": 200,
+      "bytes": 9529,
+      "sha256": "985533465a1f19db49313be03a91dfdab3670c9fe5333dbe3359bf242e7bbb0a",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/05-AI生图实战v1.0.html",
+      "status": 200,
+      "bytes": 9964,
+      "sha256": "3e12af5918b723df8aa0894ff87db75c28a90dde0edd0d153e4a63389c69abaa",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/06-五页版式设计v1.0.html",
+      "status": 200,
+      "bytes": 12271,
+      "sha256": "9eb6a2f6793ea5f109fa84075aaafda997d72a1033113dc96ffbf2199cb015c2",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/07-自动排版v1.0.html",
+      "status": 200,
+      "bytes": 10125,
+      "sha256": "b55d2ff9c580930f4373240a34b7042115b2b9d245b081e42378a25c72c0e1d0",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/08-质检清单v1.0.html",
+      "status": 200,
+      "bytes": 9210,
+      "sha256": "d2a3b8da988ae209726e7981a0d280dc6b13ce6ff3eee3e5c7117af3c314b1c3",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/09-亲子使用v1.0.html",
+      "status": 200,
+      "bytes": 8910,
+      "sha256": "646217050ec7adbfbb83309fdf761068b4601c84aca2b76656687647543fbe4e",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/10-迁移到医学场景v1.0.html",
+      "status": 200,
+      "bytes": 9036,
+      "sha256": "47351d6f3ab1757006297cbd44a47db8bcd4602e373574e5424266e1048a28af",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/11-总结与作业v1.0.html",
+      "status": 200,
+      "bytes": 10292,
+      "sha256": "87268963657f88586d1696df4a543f1f7382011784e3b890e7843199af14a401",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/pages/彼得兔第01页v1.0.webp",
+      "status": 200,
+      "bytes": 140602,
+      "sha256": "9784f6481332216ef291906506d65f9c5b6f8a8f92673e2fe844b77f87d9ce79",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/pages/彼得兔第02页v1.0.webp",
+      "status": 200,
+      "bytes": 178480,
+      "sha256": "49796b9755c7097e1fc54e39a918234b445ff91a45f3eac241e9675c1ee6d1a7",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/pages/彼得兔第03页v1.0.webp",
+      "status": 200,
+      "bytes": 80236,
+      "sha256": "386381474b60622a5b74a0388c4773fdda6895a4a71d45dda4cbd7adb5532e9c",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/pages/彼得兔第04页v1.0.webp",
+      "status": 200,
+      "bytes": 53308,
+      "sha256": "9f6252fba091e8009a8f49c68d539f0c75ad78682433c547bfa57de22f614356",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/pages/彼得兔第05页v1.0.webp",
+      "status": 200,
+      "bytes": 106074,
+      "sha256": "0031b48518837eedd419cdab973bab80106cf67d9ac9de144237d9c7d744eb14",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/pages/彼得兔第11页v1.0.webp",
+      "status": 200,
+      "bytes": 120532,
+      "sha256": "f056ac09646616377624b21d8a2d23a05f3d6c8cb06136550671c454b13c1241",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/pages/维尼第01页v1.0.webp",
+      "status": 200,
+      "bytes": 132220,
+      "sha256": "ed14f1e954c35b70090dc80259f0ddb386a6677133c7d8979acd42eb88e4bb4d",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/pages/维尼第02页v1.0.webp",
+      "status": 200,
+      "bytes": 84824,
+      "sha256": "1a53af85ca00717abe158cbe5e58283bd125f2d80aba6c64d054a4f6886572e3",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/pages/维尼第03页v1.0.webp",
+      "status": 200,
+      "bytes": 64868,
+      "sha256": "b28221ebab88af7df8088a8bd1481e1adf9b44b7d8e78f681a06b7d43869bffe",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/pages/维尼第04页v1.0.webp",
+      "status": 200,
+      "bytes": 52860,
+      "sha256": "23e47345f857846b0e525eb0a62375ebf73a7bdd54fc4f228c5bb7c406f532d4",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/pages/维尼第05页v1.0.webp",
+      "status": 200,
+      "bytes": 94218,
+      "sha256": "8c077ea8b80136c13a8923d0c757fd16815d105f8f3391a539db95ab5127ce36",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/pages/维尼第11页v1.0.webp",
+      "status": 200,
+      "bytes": 120140,
+      "sha256": "4d324c2d8c9ae4a63ea027a1d74408dc7d45b8c65c58adb27263e6646d52ab71",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/style.css",
+      "status": 200,
+      "bytes": 14063,
+      "sha256": "84694259e517ab6200621f51d0b62f21e1cb4366019fab84efdfeecf180950ed",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/课程交互v1.0.js",
+      "status": 200,
+      "bytes": 5935,
+      "sha256": "14889bb7e4942c65b6355909dfbadf28e73c2647198a2c42b2ae0c234aba5fa5",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/课程图标v1.0.svg",
+      "status": 200,
+      "bytes": 379,
+      "sha256": "4840730b10ad9e525ec49dd8621e43a02f6a929cde6e6c5f0c3cffff1cc9cf6d",
+      "matchesLocal": true
+    },
+    {
+      "file": "course/assets/课程封面v1.0.svg",
+      "status": 200,
+      "bytes": 1490,
+      "sha256": "967d065991f7c3ccb52cfd3a303a92ced72d30240b8c1d86fb61784e8ad69291",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/Hark交接记录v1.0.md",
+      "status": 200,
+      "bytes": 3637,
+      "sha256": "3c970b35ca0a1570679380412a87b7d00449a190f6dd58bb98d202217585fd06",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/交付检查v1.0.md",
+      "status": 200,
+      "bytes": 15681,
+      "sha256": "622090ca8e2319d74fd433b198396d44902a2b2612f118f1b9e9697671f4d873",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/交付检查v1.1.md",
+      "status": 200,
+      "bytes": 5917,
+      "sha256": "3c3b70a4397127d915985181aa487dfbbd2eaba1ef53b21a3e094e48d377c7e8",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/内容审阅与发布记录v1.1.md",
+      "status": 200,
+      "bytes": 4090,
+      "sha256": "bdd08f438f672e75bb0ca13e6ddae5437a7e51143e403cf0ce63dd3a78f705aa",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/发布审查v1.1.md",
+      "status": 200,
+      "bytes": 3971,
+      "sha256": "1b9ceb3acd76efe9ff15f033de5004124223ed858b4da2e68854e17810bf5d78",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/文件清单v1.0.md",
+      "status": 200,
+      "bytes": 4938,
+      "sha256": "53303dd49c747aecb7f2311389251ae7f602cc4a46d5fc635fdbe108d907eb24",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/文件清单v1.1.md",
+      "status": 200,
+      "bytes": 5637,
+      "sha256": "91ac2d49f8578918e415dd1a73185e7ad55e75ccaa79e5935f26cbaa05954fa2",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/素材与版权说明v1.0.md",
+      "status": 200,
+      "bytes": 4824,
+      "sha256": "667f4d91a7b23306d94ac7fb0bba77cfd5240a36df291c107fbc198f485cf274",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/素材与版权说明v1.1.md",
+      "status": 200,
+      "bytes": 5947,
+      "sha256": "f65ca0a3eeac7b093095d3678918820e3bcdaacf6493dfea0ae70a21417a6282",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/素材与版权说明v1.2.md",
+      "status": 200,
+      "bytes": 5724,
+      "sha256": "99f8d402d5417c88e97d65976f34fd7fb500d0e3adda893eb5cb6af38a395aae",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/英文说明v1.0.md",
+      "status": 200,
+      "bytes": 4953,
+      "sha256": "f9b81bdf11326c326ad40161b4bd7adfb9923285ceea1da4f2bbd8292abca64c",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/英文说明v1.1.md",
+      "status": 200,
+      "bytes": 8695,
+      "sha256": "017e7765b9a60e2f2e29c81acb7fea1b35ae4d01c13aa69c94cb580e5c111e67",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/Chrome复制反馈v1.0.png",
+      "status": 200,
+      "bytes": 139656,
+      "sha256": "ab329aa28918b87d272d787f0e01704d1132c7d79f623b1e0fa318d6e8bf08d6",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/Chrome复制反馈v1.1.png",
+      "status": 200,
+      "bytes": 157143,
+      "sha256": "d91134f244a128f7d986a763ed4ecc56b83dcbcce65ce0a071ed71f24c2035a0",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/Chrome手机复制反馈v1.0.png",
+      "status": 200,
+      "bytes": 85698,
+      "sha256": "15348c5f4a7ab6d3ec15d840064b63707d5a53201e0ab8d396cf11c41a8440b7",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/Chrome手机复制反馈v1.1.png",
+      "status": 200,
+      "bytes": 102496,
+      "sha256": "f152cea26a524103b2196fcf6f70bb39563da3195f3e719c6575ea3b1b263ecd",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/元数据与隐私核对v1.0.json",
+      "status": 200,
+      "bytes": 6125,
+      "sha256": "e15b9e02a769d67f5ed59f38ba5a6c5c6aa605cdd3ca831283c6a9b3b2f9b224",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/公开副本核对v1.1.json",
+      "status": 200,
+      "bytes": 1529,
+      "sha256": "5c6a2fcfb66e71c12902892238b143b77e77fb0c9beeca0e3ba51b9a8088e15c",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/公开联系入口核对v1.1.json",
+      "status": 200,
+      "bytes": 271,
+      "sha256": "3f779150ab0d258797bda12439f22a6bceb325602c2638ea369c7254bd02c5a7",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/彼得兔实际案例六页核对v1.1.jpg",
+      "status": 200,
+      "bytes": 456666,
+      "sha256": "f2c54ce98efb254b78acd672bdbdbbe43c0be5d7795f7788ac04f3aafdd0b4c4",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/本地检查v1.0.json",
+      "status": 200,
+      "bytes": 101210,
+      "sha256": "645926fb612796d64749aa5b6a386182498a6403c7151a49b473d8096e7b2910",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/本地检查v1.1.json",
+      "status": 200,
+      "bytes": 118538,
+      "sha256": "03ad47c75399266181e5235f5419ff4886abb2a89d7536d41dda2c0a1e4838b3",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/本地错误页375浅色v1.0.png",
+      "status": 200,
+      "bytes": 45231,
+      "sha256": "3c60501b917f19464fcbce63e6ecf188e9330736f509fd5c55b4bd7508e4e291",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/浏览器检查v1.0.json",
+      "status": 200,
+      "bytes": 24671,
+      "sha256": "f16257eb22d589cec2e68b04ee4fd311ec1f622f60bf997fe66fb0a25bb4b9dd",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/浏览器检查v1.1.json",
+      "status": 200,
+      "bytes": 19140,
+      "sha256": "415824e266d3da89c5f70fb44a97451303b57ee733e975df1bfb41974433a3cc",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/示例PDF第1页v1.0.png",
+      "status": 200,
+      "bytes": 107226,
+      "sha256": "0d19c84012077d8b4b9703650b36938765b8c78e3648039be80e82efc00b303e",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/示例PDF第1页v1.1.png",
+      "status": 200,
+      "bytes": 74570,
+      "sha256": "586006a05af0a322a9969a89697194166a0595d0c20d78e3e8c4d2b08acd9c39",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/示例修正复核v1.1.json",
+      "status": 200,
+      "bytes": 305,
+      "sha256": "27700b0189d8ecbc432a0a19b9078f858db7ce1f7967a9a176fddbfffa2f74cc",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/示例运行v1.0.json",
+      "status": 200,
+      "bytes": 704,
+      "sha256": "dc604757fd3980c000d60262714325cb71672102f7055504fcafa994897c78f6",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第06课1280浅色v1.0.png",
+      "status": 200,
+      "bytes": 684115,
+      "sha256": "123a840b29732b7af243330d14a947558b2e23f93bb40501b783947f22c719bc",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第06课1280浅色v1.1.png",
+      "status": 200,
+      "bytes": 735902,
+      "sha256": "2c121cfb17742347da3a0fb296ebf4a174cc2df6be7c72d73e233f5ccfc006ce",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第06课1280深色v1.0.png",
+      "status": 200,
+      "bytes": 687727,
+      "sha256": "15495d520143e2721150902cbd8c5c421195bc40e5f7bc65d226f877789e5e3e",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第06课1280深色v1.1.png",
+      "status": 200,
+      "bytes": 739849,
+      "sha256": "d0d40634407969165c433a5b6a57dfd314b795276ceeb1d193e2a57d3c0075c1",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第06课375浅色v1.0.png",
+      "status": 200,
+      "bytes": 748252,
+      "sha256": "28bc1febd8b852e94068e5e269ad6f516602de9ac79a8488d5306a12ec859563",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第06课375浅色v1.1.png",
+      "status": 200,
+      "bytes": 798631,
+      "sha256": "d91e54dc0e8cdb6b7ea087210b43ec2aadc2156f07bec159e9023d4f0e8d6bdb",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第06课768浅色v1.0.png",
+      "status": 200,
+      "bytes": 755820,
+      "sha256": "041805c4b1920059abcb315032a26056fb888bf559014a69bdec61e8d30b1bd5",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第06课768浅色v1.1.png",
+      "status": 200,
+      "bytes": 806694,
+      "sha256": "7a1b8cf5a9995d2771cc55d77f1a036693df1b7f8db9f7425666b4d988c15bc9",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第10课1280浅色v1.0.png",
+      "status": 200,
+      "bytes": 551994,
+      "sha256": "44375df1b6d48739e562265edb9d94cac36c0ef270502c3bfa9fb814a11975f7",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第10课1280浅色v1.1.png",
+      "status": 200,
+      "bytes": 599924,
+      "sha256": "e554795a8ff2665f30e5128ca45d53a4b73e825c13a3c867c8d999b55ead3846",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第10课1280深色v1.0.png",
+      "status": 200,
+      "bytes": 555519,
+      "sha256": "521404cea92cb0282c1d84dff43da2aae07ff18fef93d141d240009bcb7a58e0",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第10课1280深色v1.1.png",
+      "status": 200,
+      "bytes": 603556,
+      "sha256": "7f09b9efc2dce8fb69ab3da1a05cc5405eb891c6457a5fd1ca85c3699953660a",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第10课375浅色v1.0.png",
+      "status": 200,
+      "bytes": 579022,
+      "sha256": "c71b5c7431ca4692858ecbc45fb575dade297e6f87482e09e258ba20f9cc9590",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第10课375浅色v1.1.png",
+      "status": 200,
+      "bytes": 625130,
+      "sha256": "35739676619a1434df3f1c5996f22ef0ffbbd28987950669b8ad0a145d6a0de5",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第10课768浅色v1.0.png",
+      "status": 200,
+      "bytes": 539111,
+      "sha256": "c06a25592eac90424133955779640a856c002e45982b4612b8e114ac4c3bc02d",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/第10课768浅色v1.1.png",
+      "status": 200,
+      "bytes": 584694,
+      "sha256": "ab090158f9bbbfa37b1190fbd3e810a1d65b080844894d4099420d4ba843aaf8",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/素材核对v1.0.json",
+      "status": 200,
+      "bytes": 1181,
+      "sha256": "41a50eeab6c7184729d5e5e36c98f48c58d869bdb9f700d4ef9c663799837f6e",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/维尼公开第01页v1.1.png",
+      "status": 200,
+      "bytes": 796351,
+      "sha256": "3563ac059922c1286ffcb31b83f63814672526d5b5471b3dca9d7aed87cb960e",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/维尼公开第02页v1.1.png",
+      "status": 200,
+      "bytes": 705453,
+      "sha256": "6bfc6398a5ad154abe2db4c59531979c477b7ccd6add56b4ccb3cb9f394e2300",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/维尼实际案例六页核对v1.1.jpg",
+      "status": 200,
+      "bytes": 417821,
+      "sha256": "b6b1a91366ee6c50bf62ebaa61635ee6a20b0d2aa3a0d3fde09a7053c5847335",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/补充浏览器核对v1.0.json",
+      "status": 200,
+      "bytes": 1186,
+      "sha256": "300887b8362bea048ccb03ddb41d342f03655dd93235fcb8f1f9e0e05814a783",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/课程结构v1.0.json",
+      "status": 200,
+      "bytes": 3485,
+      "sha256": "0359b4504838f18e578362d654346131d38b2b884662f2415f53ac882baea0e1",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/首页1280浅色v1.0.png",
+      "status": 200,
+      "bytes": 1596492,
+      "sha256": "793a1aca09a1852446a618f63d72e09069768e0a2fac24f5a0bfd1d780533dc3",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/首页1280浅色v1.1.png",
+      "status": 200,
+      "bytes": 1710427,
+      "sha256": "cd1103d1369dd5e771655a7fb783fa6a0b1901ca527b32f93047b8727b4aaa16",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/首页1280深色v1.0.png",
+      "status": 200,
+      "bytes": 1595014,
+      "sha256": "1ed4944cbd95694ede6f7715abd90b539047e702ad90aec47bc81d6c1b4a0f08",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/首页1280深色v1.1.png",
+      "status": 200,
+      "bytes": 1708884,
+      "sha256": "6e49c03e3f886187852af627e865edcca032e4a17240c647313a340211d75e37",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/首页375浅色v1.0.png",
+      "status": 200,
+      "bytes": 1331235,
+      "sha256": "47c742ee7d4b24737456772e3c083f0e377ce9dab87dfa56fe02d15b7e1396e8",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/首页375浅色v1.1.png",
+      "status": 200,
+      "bytes": 1438417,
+      "sha256": "3872936e73a0a60fe882062a8c3d7ec729e25703bad034e4359c417216be4451",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/首页768浅色v1.0.png",
+      "status": 200,
+      "bytes": 1790585,
+      "sha256": "2c6c727ff0570749b045fc7e5d05d54fcc62f3684e7e68942126cdd61e0495b2",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/证据/首页768浅色v1.1.png",
+      "status": 200,
+      "bytes": 1901179,
+      "sha256": "e017a3aec00db6c6bea0bb7006cb48afe8ab7ef500a0bbbf55101010a16ada16",
+      "matchesLocal": true
+    },
+    {
+      "file": "docs/课程与设计说明v1.0.md",
+      "status": 200,
+      "bytes": 2141,
+      "sha256": "3062bb1a5b31cececae94a58c7aa91b99404fadfcf0198f8f1aa6d47bf889d65",
+      "matchesLocal": true
+    },
+    {
+      "file": "examples/排版示例v1.0.py",
+      "status": 200,
+      "bytes": 7294,
+      "sha256": "3cd0e354942bfc25e63380a2e28bb6ebc27f3eac3626b5ac0a3357969e003674",
+      "matchesLocal": true
+    },
+    {
+      "file": "examples/排版示例v1.1.py",
+      "status": 200,
+      "bytes": 7915,
+      "sha256": "79924f1ac7216d5314f50c89f3c873f8462a93f509d4729b7904ef4f14de5878",
+      "matchesLocal": true
+    },
+    {
+      "file": "examples/示例依赖v1.0.txt",
+      "status": 200,
+      "bytes": 17,
+      "sha256": "054e7483ed0899a13425d3ff89d0ae162290c88989825c77d22174ceb36f33f1",
+      "matchesLocal": true
+    },
+    {
+      "file": "examples/章节数据v1.0.json",
+      "status": 200,
+      "bytes": 4716,
+      "sha256": "992b33e863048b6fcc26bb9da3ed0ad2578ee7ff4c1d85258e2d716e9a7f82d5",
+      "matchesLocal": true
+    },
+    {
+      "file": "examples/章节数据v1.1.json",
+      "status": 200,
+      "bytes": 4716,
+      "sha256": "992b33e863048b6fcc26bb9da3ed0ad2578ee7ff4c1d85258e2d716e9a7f82d5",
+      "matchesLocal": true
+    },
+    {
+      "file": "examples/输出/五页排版示例v1.0.pdf",
+      "status": 200,
+      "bytes": 8931,
+      "sha256": "a803bbe0d969e421a7ae8ec89baeb717e00c5ce0796ddc781af42fcb7a8ebd99",
+      "matchesLocal": true
+    },
+    {
+      "file": "examples/输出/五页排版示例v1.1.pdf",
+      "status": 200,
+      "bytes": 9393,
+      "sha256": "bdc5a5e99b8af90b3ce9d00dd9e26ba06c9a5590a49a76a5cd05122cc1b92524",
+      "matchesLocal": true
+    },
+    {
+      "file": "index.html",
+      "status": 200,
+      "bytes": 21935,
+      "sha256": "d12db30225178fac5be0b2c200046a6d7ff7711597ea4c5d437219f8aa94d1d1",
+      "matchesLocal": true
+    },
+    {
+      "file": "scripts/公开副本加注v1.0.py",
+      "status": 200,
+      "bytes": 3713,
+      "sha256": "7f19dd9944ed45e2940c8c49e3620ac623fa3d1e1a71be7679f8e0dbcb172150",
+      "matchesLocal": true
+    },
+    {
+      "file": "scripts/本地检查v1.0.py",
+      "status": 200,
+      "bytes": 6389,
+      "sha256": "69d009cdddfd5b974178ed6fed4025aefbaf370f83f11880a4ba4700b14077ae",
+      "matchesLocal": true
+    },
+    {
+      "file": "scripts/本地检查v1.1.py",
+      "status": 200,
+      "bytes": 7610,
+      "sha256": "e3623d6d56c1a9feb732c78f861dfd1fbce23f266412cb397c474aa9d63245d8",
+      "matchesLocal": true
+    },
+    {
+      "file": "scripts/浏览器检查v1.0.js",
+      "status": 200,
+      "bytes": 7795,
+      "sha256": "274a6436c575a5b1d950784b9f2002cc9e33ae4dd6e4491dea8e158cf2e47ae5",
+      "matchesLocal": true
+    },
+    {
+      "file": "scripts/浏览器检查v1.1.js",
+      "status": 200,
+      "bytes": 7795,
+      "sha256": "690940f6ed1f0eb868be0623aa1ba3cd24a4008349b8cb4d8a5fb0098793ac0d",
+      "matchesLocal": true
+    },
+    {
+      "file": "页面未找到v1.0.html",
+      "status": 200,
+      "bytes": 2121,
+      "sha256": "7040aaf7f01765fd00104789dff778769c8090ab4e2e7b231923ee7cf117c9b0",
+      "matchesLocal": true
+    }
+  ],
+  "excludedFromHttp": [
+    ".gitignore",
+    ".gitattributes",
+    ".nojekyll"
+  ],
+  "note": "全部已提交非点号文件HTTP读取并比较SHA-256；包括四个完整PDF下载、中文路径和课程截图。"
+}

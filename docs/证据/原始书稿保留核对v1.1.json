@@ -1,0 +1,12 @@
+[
+  {
+    "book": "Winnie-the-Pooh",
+    "sha256": "d5a7128ae5f7fca89e7ebb1f0071e63aebb054d372c2b56fc396c38df75591de",
+    "unchanged": true
+  },
+  {
+    "book": "Peter Rabbit",
+    "sha256": "02543b6bbf9e0bad8a7eac1f67c76ca2d44b50a996824e4f425b2d7190655fc5",
+    "unchanged": true
+  }
+]
