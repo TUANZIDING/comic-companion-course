@@ -1,13 +1,14 @@
-<p align="center"><img src="course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.0.svg" width="100%" alt="Codex辅助编写的原创SVG概念封面：一本书与五页纸卡，非原著插画"></p>
+<p align="center"><img src="course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.1.webp" width="100%" alt="AI生成概念主图：虚构卡通儿童与AI小助手展开故事书中的全息漫画，非原书插画"></p>
+<p align="center"><sub>AI生成概念主图 · 原创虚构人物 · <a href="docs/%E4%B8%BB%E5%9B%BE%E7%94%9F%E6%88%90%E8%AE%B0%E5%BD%95v1.0.md">生成提示词与来源记录</a></sub></p>
 <h1 align="center">从一本书到漫画伴读<br>Comic Companion Course</h1>
 <p align="center">把故事整理为看、读、演的五页小课堂。<br>Turn a story into a five-page comic reading workshop.</p>
-<p align="center"><a href="README.md">简体中文</a> · <a href="docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.1.md">English</a></p>
+<p align="center"><a href="README.md">简体中文</a> · <a href="docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.2.md">English</a></p>
 <p align="center"><code>免费非商业 v1.1</code> · <code>12课</code> · <a href="LICENSE">CC BY-NC 4.0：课程文字与代码</a></p>
 <p align="center"><a href="https://tuanziding.github.io/comic-companion-course/">在线课程</a> · <a href="#showcase">两本案例</a> · <a href="#start">快速开始</a> · <a href="#workflow">工作流</a> · <a href="#status">能力状态</a> · <a href="#contact">共创与联系</a></p>
 
 这是面向医学科研人员和AI应用学习者的纯静态HTML课程。读者及医学场景均为虚构示例。项目策划、改编组织与维护者：**Haixiang Ding, MD**，急诊创伤外科医生，苏州大学临床医学博士在读。
 
-**AI参与声明：**两本历史漫画伴读借助Hark组织制作；课程文字、提示词、网页和示例代码由Codex辅助编写。新提示词和代码均是“教学示例，非原始制作记录”。具体生图模型、参考图、原始cast sheet及提示词记录仍【待补充】。本轮Codex实际内容审阅与本地自检不等于独立人工、法律或医学专家验收；Hark此前失败的审阅不计为通过。
+**AI参与声明：**两本历史漫画伴读借助Hark组织制作；课程文字、提示词、网页和示例代码由Codex辅助编写；新增主图由OpenAI内置图像生成工具制作，是概念视觉，非原书插画或实际功能截图。新提示词和代码均是“教学示例，非原始制作记录”。具体生图模型、参考图、原始cast sheet及提示词记录仍【待补充】。本轮Codex实际内容审阅与本地自检不等于独立人工、法律或医学专家验收；Hark此前失败的审阅不计为通过。
 
 <a id="scenarios"></a>
 ## 适合怎样使用
@@ -87,7 +88,7 @@ Windows使用虚拟环境Scripts目录内的python。默认读取examples/章节
 
 **后续商业合作可联系创作者；商业使用须另行核查授权。**本版免费、非商业，无付款入口或商业授权承诺。Hark对商业输出另有书面授权条件；联系创作者不替代原著、插画、参考素材或服务方的授权。
 
-[素材与版权](docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md) · [内容审阅与发布记录](docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md) · [待补充与自检](docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md) · [文件清单](docs/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.1.md)
+[素材与版权](docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.3.md) · [内容审阅与发布记录](docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md) · [待补充与自检](docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md) · [文件清单](docs/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.2.md)
 
 <p align="center">Haixiang Ding, MD · Codex辅助课程编写 / Hark辅助历史改编<br>CC BY-NC 4.0仅覆盖本课程新写文字与代码；第三方、原著插画、AI图像、PDF及截图单列，不被该许可覆盖。</p>
 

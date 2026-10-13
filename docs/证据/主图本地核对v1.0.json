@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-14",
+  "scope": "双语README主图替换；课程与PDF未改",
+  "internalReferencesChecked": 49,
+  "assets": [
+    {
+      "file": "course/assets/课程封面原图v1.1.png",
+      "width": 1942,
+      "height": 809,
+      "bytes": 2604174,
+      "sha256": "cbbf7956903aa20c974445a21de1130eed48143e87778638b696981d684963ec"
+    },
+    {
+      "file": "course/assets/课程封面v1.1.webp",
+      "width": 1942,
+      "height": 809,
+      "bytes": 360904,
+      "sha256": "06d8ab5cb47785515a8bf1880b50089bd8fbce2952a64d3f77bee44768ebc83b"
+    }
+  ],
+  "conceptArtworkDisclosure": true,
+  "privateMetadata": false,
+  "tool": "OpenAI built-in image_gen; exact model version not supplied"
+}
