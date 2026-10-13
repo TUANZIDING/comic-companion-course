@@ -51,7 +51,7 @@ def main():
         rel=path.relative_to(ROOT).as_posix()
         if path.stat().st_size>=50_000_000:failures.append(rel+': exceeds 50MB')
         if path.is_symlink():failures.append(rel+': symlink')
-        if path.name not in ('index.html','404.html','README.md','LICENSE','.gitignore','.nojekyll','style.css'):
+        if path.name not in ('index.html','404.html','README.md','LICENSE','.gitignore','.gitattributes','.nojekyll','style.css'):
             if '_' in path.name or not re.fullmatch(r'.+v\d+\.\d+\.[a-zA-Z0-9]+',path.name):failures.append(rel+': filename convention')
         if path.suffix in ('.html','.md','.py','.js','.json','.css','.txt'):
             text=path.read_text()
