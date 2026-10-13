@@ -1,0 +1,14 @@
+[
+  {
+    "file": "course/assets/课程封面v1.1.webp",
+    "sha256": "06d8ab5cb47785515a8bf1880b50089bd8fbce2952a64d3f77bee44768ebc83b",
+    "matchesPages": true,
+    "bytes": 360904
+  },
+  {
+    "file": "course/assets/课程封面原图v1.1.png",
+    "sha256": "cbbf7956903aa20c974445a21de1130eed48143e87778638b696981d684963ec",
+    "matchesPages": true,
+    "bytes": 2604174
+  }
+]

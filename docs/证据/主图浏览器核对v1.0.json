@@ -1,0 +1,30 @@
+{
+  "browser": "155.0.8059.40",
+  "mode": "isolated headless Chrome, anonymous live GitHub pages",
+  "chinese": [
+    {
+      "viewport": 375,
+      "src": "/TUANZIDING/comic-companion-course/raw/main/course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.1.webp",
+      "width": 1942,
+      "height": 809,
+      "renderedWidth": 309,
+      "renderedHeight": 128.71875,
+      "bodyWidth": 375
+    },
+    {
+      "viewport": 1280,
+      "src": "/TUANZIDING/comic-companion-course/raw/main/course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.1.webp",
+      "width": 1942,
+      "height": 809,
+      "renderedWidth": 838,
+      "renderedHeight": 349.09375,
+      "bodyWidth": 1280
+    }
+  ],
+  "english": {
+    "width": 1942,
+    "height": 809,
+    "src": "/TUANZIDING/comic-companion-course/raw/main/course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.1.webp"
+  },
+  "aiLabelConfirmed": true
+}
