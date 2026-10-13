@@ -1,0 +1,976 @@
+{
+  "browser": "155.0.8059.40",
+  "base": "http://127.0.0.1:8875/",
+  "viewports": [
+    375,
+    768,
+    1280
+  ],
+  "routes": [
+    "index.html",
+    "course/00-课程导览v1.0.html",
+    "course/01-从孩子出发v1.0.html",
+    "course/02-选书与版权v1.0.html",
+    "course/03-拆章与改编v1.0.html",
+    "course/04-角色设定与一致性v1.0.html",
+    "course/05-AI生图实战v1.0.html",
+    "course/06-五页版式设计v1.0.html",
+    "course/07-自动排版v1.0.html",
+    "course/08-质检清单v1.0.html",
+    "course/09-亲子使用v1.0.html",
+    "course/10-迁移到医学场景v1.0.html",
+    "course/11-总结与作业v1.0.html"
+  ],
+  "layouts": [
+    {
+      "route": "index.html",
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "index.html",
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/00-课程导览v1.0.html",
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/00-课程导览v1.0.html",
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/01-从孩子出发v1.0.html",
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/01-从孩子出发v1.0.html",
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/02-选书与版权v1.0.html",
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/02-选书与版权v1.0.html",
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/03-拆章与改编v1.0.html",
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/03-拆章与改编v1.0.html",
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/04-角色设定与一致性v1.0.html",
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/04-角色设定与一致性v1.0.html",
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/05-AI生图实战v1.0.html",
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/05-AI生图实战v1.0.html",
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/06-五页版式设计v1.0.html",
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/06-五页版式设计v1.0.html",
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/07-自动排版v1.0.html",
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/07-自动排版v1.0.html",
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/08-质检清单v1.0.html",
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/08-质检清单v1.0.html",
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/09-亲子使用v1.0.html",
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/09-亲子使用v1.0.html",
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/10-迁移到医学场景v1.0.html",
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/10-迁移到医学场景v1.0.html",
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/11-总结与作业v1.0.html",
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "course/11-总结与作业v1.0.html",
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "viewport": 375,
+      "clipped": []
+    },
+    {
+      "route": "index.html",
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "index.html",
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/00-课程导览v1.0.html",
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/00-课程导览v1.0.html",
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/01-从孩子出发v1.0.html",
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/01-从孩子出发v1.0.html",
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/02-选书与版权v1.0.html",
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/02-选书与版权v1.0.html",
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/03-拆章与改编v1.0.html",
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/03-拆章与改编v1.0.html",
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/04-角色设定与一致性v1.0.html",
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/04-角色设定与一致性v1.0.html",
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/05-AI生图实战v1.0.html",
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/05-AI生图实战v1.0.html",
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/06-五页版式设计v1.0.html",
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/06-五页版式设计v1.0.html",
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/07-自动排版v1.0.html",
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/07-自动排版v1.0.html",
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/08-质检清单v1.0.html",
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/08-质检清单v1.0.html",
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/09-亲子使用v1.0.html",
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/09-亲子使用v1.0.html",
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/10-迁移到医学场景v1.0.html",
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/10-迁移到医学场景v1.0.html",
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/11-总结与作业v1.0.html",
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "course/11-总结与作业v1.0.html",
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "viewport": 768,
+      "clipped": []
+    },
+    {
+      "route": "index.html",
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "index.html",
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/00-课程导览v1.0.html",
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/00-课程导览v1.0.html",
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/01-从孩子出发v1.0.html",
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/01-从孩子出发v1.0.html",
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/02-选书与版权v1.0.html",
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/02-选书与版权v1.0.html",
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/03-拆章与改编v1.0.html",
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/03-拆章与改编v1.0.html",
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/04-角色设定与一致性v1.0.html",
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/04-角色设定与一致性v1.0.html",
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/05-AI生图实战v1.0.html",
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/05-AI生图实战v1.0.html",
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/06-五页版式设计v1.0.html",
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/06-五页版式设计v1.0.html",
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/07-自动排版v1.0.html",
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/07-自动排版v1.0.html",
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/08-质检清单v1.0.html",
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/08-质检清单v1.0.html",
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/09-亲子使用v1.0.html",
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/09-亲子使用v1.0.html",
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/10-迁移到医学场景v1.0.html",
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/10-迁移到医学场景v1.0.html",
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/11-总结与作业v1.0.html",
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    },
+    {
+      "route": "course/11-总结与作业v1.0.html",
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "viewport": 1280,
+      "clipped": []
+    }
+  ],
+  "contrasts": [
+    {
+      "theme": "light",
+      "foregroundToken": "ink",
+      "backgroundToken": "paper",
+      "foreground": "rgb(22, 60, 45)",
+      "background": "rgb(255, 248, 231)",
+      "ratio": 11.541804811863068
+    },
+    {
+      "theme": "light",
+      "foregroundToken": "ink",
+      "backgroundToken": "surface",
+      "foreground": "rgb(22, 60, 45)",
+      "background": "rgb(255, 253, 245)",
+      "ratio": 12.000245248512664
+    },
+    {
+      "theme": "light",
+      "foregroundToken": "muted",
+      "backgroundToken": "paper",
+      "foreground": "rgb(69, 100, 86)",
+      "background": "rgb(255, 248, 231)",
+      "ratio": 6.177909288283252
+    },
+    {
+      "theme": "light",
+      "foregroundToken": "muted",
+      "backgroundToken": "surface",
+      "foreground": "rgb(69, 100, 86)",
+      "background": "rgb(255, 253, 245)",
+      "ratio": 6.423295818195032
+    },
+    {
+      "theme": "light",
+      "foregroundToken": "primary",
+      "backgroundToken": "paper",
+      "foreground": "rgb(28, 81, 59)",
+      "background": "rgb(255, 248, 231)",
+      "ratio": 8.662529266480725
+    },
+    {
+      "theme": "light",
+      "foregroundToken": "primary",
+      "backgroundToken": "surface",
+      "foreground": "rgb(28, 81, 59)",
+      "background": "rgb(255, 253, 245)",
+      "ratio": 9.006604891060126
+    },
+    {
+      "theme": "light",
+      "foregroundToken": "on-primary",
+      "backgroundToken": "primary",
+      "foreground": "rgb(255, 248, 231)",
+      "background": "rgb(28, 81, 59)",
+      "ratio": 8.662529266480725
+    },
+    {
+      "theme": "light",
+      "foregroundToken": "on-honey",
+      "backgroundToken": "honey",
+      "foreground": "rgb(22, 60, 45)",
+      "background": "rgb(239, 189, 78)",
+      "ratio": 7.017890248789356
+    },
+    {
+      "theme": "light",
+      "foregroundToken": "on-todo",
+      "backgroundToken": "todo",
+      "foreground": "rgb(75, 53, 21)",
+      "background": "rgb(255, 240, 191)",
+      "ratio": 10.151680573829562
+    },
+    {
+      "theme": "light",
+      "foregroundToken": "on-code",
+      "backgroundToken": "code",
+      "foreground": "rgb(233, 244, 229)",
+      "background": "rgb(18, 45, 34)",
+      "ratio": 13.015576922047368
+    },
+    {
+      "theme": "dark",
+      "foregroundToken": "ink",
+      "backgroundToken": "paper",
+      "foreground": "rgb(255, 246, 223)",
+      "background": "rgb(16, 39, 30)",
+      "ratio": 14.65066959111026
+    },
+    {
+      "theme": "dark",
+      "foregroundToken": "ink",
+      "backgroundToken": "surface",
+      "foreground": "rgb(255, 246, 223)",
+      "background": "rgb(23, 54, 43)",
+      "ratio": 12.195165189710226
+    },
+    {
+      "theme": "dark",
+      "foregroundToken": "muted",
+      "backgroundToken": "paper",
+      "foreground": "rgb(194, 207, 189)",
+      "background": "rgb(16, 39, 30)",
+      "ratio": 9.73249302750205
+    },
+    {
+      "theme": "dark",
+      "foregroundToken": "muted",
+      "backgroundToken": "surface",
+      "foreground": "rgb(194, 207, 189)",
+      "background": "rgb(23, 54, 43)",
+      "ratio": 8.101292534104303
+    },
+    {
+      "theme": "dark",
+      "foregroundToken": "primary",
+      "backgroundToken": "paper",
+      "foreground": "rgb(199, 229, 203)",
+      "background": "rgb(16, 39, 30)",
+      "ratio": 11.644371982883538
+    },
+    {
+      "theme": "dark",
+      "foregroundToken": "primary",
+      "backgroundToken": "surface",
+      "foreground": "rgb(199, 229, 203)",
+      "background": "rgb(23, 54, 43)",
+      "ratio": 9.69273376746304
+    },
+    {
+      "theme": "dark",
+      "foregroundToken": "on-primary",
+      "backgroundToken": "primary",
+      "foreground": "rgb(16, 39, 30)",
+      "background": "rgb(199, 229, 203)",
+      "ratio": 11.644371982883538
+    },
+    {
+      "theme": "dark",
+      "foregroundToken": "on-honey",
+      "backgroundToken": "honey",
+      "foreground": "rgb(16, 39, 30)",
+      "background": "rgb(241, 198, 91)",
+      "ratio": 9.74378777046991
+    },
+    {
+      "theme": "dark",
+      "foregroundToken": "on-todo",
+      "backgroundToken": "todo",
+      "foreground": "rgb(255, 231, 160)",
+      "background": "rgb(75, 57, 29)",
+      "ratio": 9.037065422391539
+    },
+    {
+      "theme": "dark",
+      "foregroundToken": "on-code",
+      "backgroundToken": "code",
+      "foreground": "rgb(233, 244, 229)",
+      "background": "rgb(8, 27, 18)",
+      "ratio": 15.76451582469494
+    }
+  ],
+  "screenshots": [
+    "首页375浅色v1.0.png",
+    "第06课375浅色v1.0.png",
+    "第10课375浅色v1.0.png",
+    "首页768浅色v1.0.png",
+    "第06课768浅色v1.0.png",
+    "第10课768浅色v1.0.png",
+    "首页1280浅色v1.0.png",
+    "首页1280深色v1.0.png",
+    "第06课1280浅色v1.0.png",
+    "第06课1280深色v1.0.png",
+    "第10课1280浅色v1.0.png",
+    "第10课1280深色v1.0.png"
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "clipboardDesktop": true,
+  "clipboardMobileFallback": true,
+  "galleryKeyboardClose": true,
+  "themePersistence": true,
+  "progressPersistence": true,
+  "network": "All external requests blocked; all local page assets loaded.",
+  "actualNavigationClicks": [
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "clicked": "http://127.0.0.1:8875/index.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/11-%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BD%9C%E4%B8%9Av1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "clicked": "http://127.0.0.1:8875/course/10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "status": "navigated"
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "clicked": "http://127.0.0.1:8875/index.html#curriculum",
+      "status": "navigated"
+    },
+    {
+      "source": "index.html",
+      "clicked": "books/%E7%BB%B4%E5%B0%BC%E6%BC%AB%E7%94%BB%E4%BC%B4%E8%AF%BB%E9%A2%84%E8%A7%88v1.0.pdf",
+      "downloadBytes": 8648531,
+      "status": "download verified"
+    },
+    {
+      "source": "index.html",
+      "clicked": "books/%E7%BB%B4%E5%B0%BC%E6%BC%AB%E7%94%BB%E4%BC%B4%E8%AF%BBv1.0.pdf",
+      "downloadBytes": 29571142,
+      "status": "download verified"
+    },
+    {
+      "source": "index.html",
+      "clicked": "books/%E5%BD%BC%E5%BE%97%E5%85%94%E6%BC%AB%E7%94%BB%E4%BC%B4%E8%AF%BB%E9%A2%84%E8%A7%88v1.0.pdf",
+      "downloadBytes": 3887572,
+      "status": "download verified"
+    },
+    {
+      "source": "index.html",
+      "clicked": "books/%E5%BD%BC%E5%BE%97%E5%85%94%E6%BC%AB%E7%94%BB%E4%BC%B4%E8%AF%BBv1.0.pdf",
+      "downloadBytes": 12940210,
+      "status": "download verified"
+    }
+  ],
+  "clipboardMobileFallbackContentMatch": true
+}

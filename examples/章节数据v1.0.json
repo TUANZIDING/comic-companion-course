@@ -1,0 +1,176 @@
+{
+  "notice": "教学示例，非原始制作记录；原创短对话用于版式演示，不是原书台词。",
+  "book": {
+    "title": "门边的篮子 · 五页排版教学示例",
+    "pageSize": "A4",
+    "reader": "虚构读者A，7岁",
+    "curriculum": "待补充；不声明教材匹配",
+    "titleEn": "The Basket by the Door - Five-page layout example"
+  },
+  "chapter": {
+    "summary": "虚构小兔在门边看到篮子，与另一位角色练习问答和道谢。图片均为明确占位。",
+    "utterances": [
+      {
+        "id": "demo-s01",
+        "speaker": "Narrator",
+        "text": "This is a basket.",
+        "supportText": "这是一个篮子。"
+      },
+      {
+        "id": "demo-s02",
+        "speaker": "Rabbit",
+        "text": "Is this your basket?",
+        "supportText": "这是你的篮子吗？"
+      },
+      {
+        "id": "demo-s03",
+        "speaker": "Mum",
+        "text": "Yes, it is.",
+        "supportText": "是的。"
+      },
+      {
+        "id": "demo-s04",
+        "speaker": "Rabbit",
+        "text": "Here is your basket.",
+        "supportText": "给你篮子。"
+      },
+      {
+        "id": "demo-s05",
+        "speaker": "Mum",
+        "text": "Thank you!",
+        "supportText": "谢谢！"
+      },
+      {
+        "id": "demo-s06",
+        "speaker": "Rabbit",
+        "text": "You are welcome.",
+        "supportText": "不客气。"
+      },
+      {
+        "id": "demo-s07",
+        "speaker": "Narrator",
+        "text": "This is the door.",
+        "supportText": "这就是门。"
+      },
+      {
+        "id": "demo-s08",
+        "speaker": "Narrator",
+        "text": "This is a carrot.",
+        "supportText": "这是一根胡萝卜。"
+      },
+      {
+        "id": "demo-s09",
+        "speaker": "Narrator",
+        "text": "It is red.",
+        "supportText": "它是红色的。"
+      },
+      {
+        "id": "demo-s10",
+        "speaker": "Narrator",
+        "text": "It is green.",
+        "supportText": "它是绿色的。"
+      }
+    ],
+    "panels": [
+      {
+        "artBrief": "小兔看到门边的篮子。",
+        "utteranceId": "demo-s01",
+        "artBriefEn": "A rabbit sees a basket by the door."
+      },
+      {
+        "artBrief": "小兔询问篮子的主人。",
+        "utteranceId": "demo-s02",
+        "artBriefEn": "The rabbit asks who owns the basket."
+      },
+      {
+        "artBrief": "另一位角色点头回应。",
+        "utteranceId": "demo-s03",
+        "artBriefEn": "Another character answers."
+      },
+      {
+        "artBrief": "小兔递出同一只篮子。",
+        "utteranceId": "demo-s04",
+        "artBriefEn": "The rabbit gives back the same basket."
+      },
+      {
+        "artBrief": "收到篮子的角色道谢。",
+        "utteranceId": "demo-s05",
+        "artBriefEn": "The other character says thank you."
+      },
+      {
+        "artBrief": "小兔微笑回应。",
+        "utteranceId": "demo-s06",
+        "artBriefEn": "The rabbit responds with a smile."
+      }
+    ],
+    "findObjects": [
+      "basket",
+      "door",
+      "carrot",
+      "hat",
+      "book",
+      "leaf"
+    ],
+    "words": [
+      {
+        "word": "basket",
+        "meaning": "篮子",
+        "exampleId": "demo-s01",
+        "meaningEn": "a container"
+      },
+      {
+        "word": "door",
+        "meaning": "门",
+        "exampleId": "demo-s07",
+        "meaningEn": "an entrance"
+      },
+      {
+        "word": "carrot",
+        "meaning": "胡萝卜",
+        "exampleId": "demo-s08",
+        "meaningEn": "a vegetable"
+      },
+      {
+        "word": "red",
+        "meaning": "红色",
+        "exampleId": "demo-s09",
+        "meaningEn": "a colour"
+      },
+      {
+        "word": "green",
+        "meaning": "绿色",
+        "exampleId": "demo-s10",
+        "meaningEn": "a colour"
+      }
+    ],
+    "audioOrder": [
+      "demo-s01",
+      "demo-s02",
+      "demo-s03",
+      "demo-s04",
+      "demo-s05",
+      "demo-s06"
+    ],
+    "activities": [
+      {
+        "utteranceId": "demo-s02",
+        "answer": "basket",
+        "imageHint": "角色指向篮子",
+        "imageHintEn": "Pointing to the basket"
+      },
+      {
+        "utteranceId": "demo-s07",
+        "answer": "door",
+        "imageHint": "同一扇门的占位图",
+        "imageHintEn": "A placeholder for the same door"
+      },
+      {
+        "utteranceId": "demo-s08",
+        "answer": "carrot",
+        "imageHint": "一根胡萝卜的占位图",
+        "imageHintEn": "A placeholder for one carrot"
+      }
+    ],
+    "summaryEn": "A fictional rabbit finds a basket, asks its owner and practises a short thank-you dialogue. All artwork areas are placeholders."
+  }
+}

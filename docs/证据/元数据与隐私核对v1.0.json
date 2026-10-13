@@ -1,0 +1,238 @@
+{
+  "bookPdfMetadata": [
+    {
+      "file": "books/彼得兔漫画伴读v1.0.pdf",
+      "info": {},
+      "xmpPresent": false,
+      "sha256": "02543b6bbf9e0bad8a7eac1f67c76ca2d44b50a996824e4f425b2d7190655fc5",
+      "action": "none needed; existing file unchanged"
+    },
+    {
+      "file": "books/彼得兔漫画伴读预览v1.0.pdf",
+      "info": {},
+      "xmpPresent": false,
+      "sha256": "1b0500bff2253ad146f7999934e2de55ef5e4c77d2010471d8528e8b36eeb234",
+      "action": "none needed; existing file unchanged"
+    },
+    {
+      "file": "books/维尼漫画伴读v1.0.pdf",
+      "info": {},
+      "xmpPresent": false,
+      "sha256": "d5a7128ae5f7fca89e7ebb1f0071e63aebb054d372c2b56fc396c38df75591de",
+      "action": "none needed; existing file unchanged"
+    },
+    {
+      "file": "books/维尼漫画伴读预览v1.0.pdf",
+      "info": {},
+      "xmpPresent": false,
+      "sha256": "ef638a14f33153967628f4ffb36fd594892900dc00157ba8e93d8f075ef06201",
+      "action": "none needed; existing file unchanged"
+    }
+  ],
+  "screenshotMetadata": [
+    {
+      "file": "course/assets/pages/彼得兔第01页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/彼得兔第02页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/彼得兔第03页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/彼得兔第04页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/彼得兔第05页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/彼得兔第11页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/维尼第01页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/维尼第02页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/维尼第03页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/维尼第04页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/维尼第05页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/维尼第11页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    }
+  ],
+  "personalHomeEmailMobileMatches": [],
+  "note": "No PDF content or metadata rewrite was needed. Generic localhost addresses and standard application paths are retained for reproducibility.",
+  "allRasterImageMetadata": [
+    {
+      "file": "course/assets/pages/彼得兔第01页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/彼得兔第02页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/彼得兔第03页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/彼得兔第04页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/彼得兔第05页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/彼得兔第11页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/维尼第01页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/维尼第02页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/维尼第03页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/维尼第04页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/维尼第05页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "course/assets/pages/维尼第11页v1.0.webp",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/Chrome复制反馈v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/Chrome手机复制反馈v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/本地错误页375浅色v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/示例PDF第1页v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/第06课1280浅色v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/第06课1280深色v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/第06课375浅色v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/第06课768浅色v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/第10课1280浅色v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/第10课1280深色v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/第10课375浅色v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/第10课768浅色v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/首页1280浅色v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/首页1280深色v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/首页375浅色v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    },
+    {
+      "file": "docs/证据/首页768浅色v1.0.png",
+      "exifItems": 0,
+      "xmpPresent": false
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "book": "维尼",
+    "sourceFileName": "Winnie-the-Pooh_Comic_Companion.pdf",
+    "originalSha256": "d5a7128ae5f7fca89e7ebb1f0071e63aebb054d372c2b56fc396c38df75591de",
+    "copy": "books/维尼漫画伴读v1.0.pdf",
+    "bytes": 29571142,
+    "pages": 50,
+    "preview": "books/维尼漫画伴读预览v1.0.pdf",
+    "previewBytes": 8648531,
+    "previewTextAndPageCountMatch": true,
+    "screenshots": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      11
+    ],
+    "sourceSha256RecheckedAtDelivery": "d5a7128ae5f7fca89e7ebb1f0071e63aebb054d372c2b56fc396c38df75591de"
+  },
+  {
+    "book": "彼得兔",
+    "sourceFileName": "Peter_Rabbit_Comic_Companion.pdf",
+    "originalSha256": "02543b6bbf9e0bad8a7eac1f67c76ca2d44b50a996824e4f425b2d7190655fc5",
+    "copy": "books/彼得兔漫画伴读v1.0.pdf",
+    "bytes": 12940210,
+    "pages": 20,
+    "preview": "books/彼得兔漫画伴读预览v1.0.pdf",
+    "previewBytes": 3887572,
+    "previewTextAndPageCountMatch": true,
+    "screenshots": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      11
+    ],
+    "sourceSha256RecheckedAtDelivery": "02543b6bbf9e0bad8a7eac1f67c76ca2d44b50a996824e4f425b2d7190655fc5"
+  }
+]

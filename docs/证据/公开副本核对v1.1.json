@@ -1,0 +1,42 @@
+[
+  {
+    "source": "books/维尼漫画伴读v1.0.pdf",
+    "copy": "books/维尼漫画伴读v1.1.pdf",
+    "pages": 50,
+    "bytes": 29483731,
+    "sourceSha256": "d5a7128ae5f7fca89e7ebb1f0071e63aebb054d372c2b56fc396c38df75591de",
+    "sha256": "69d1e3c2b72ff80b842aa2fb8f627a885dfc988fbaee0d6a806d514d0da2ef4e",
+    "textPreserved": true,
+    "noticeHeightPoints": 46
+  },
+  {
+    "source": "books/维尼漫画伴读预览v1.0.pdf",
+    "copy": "books/维尼漫画伴读预览v1.1.pdf",
+    "pages": 50,
+    "bytes": 8564753,
+    "sourceSha256": "ef638a14f33153967628f4ffb36fd594892900dc00157ba8e93d8f075ef06201",
+    "sha256": "aedee2559173f2bd8f4c483708ac57fd9886da01869921747185919663d0f32c",
+    "textPreserved": true,
+    "noticeHeightPoints": 46
+  },
+  {
+    "source": "books/彼得兔漫画伴读v1.0.pdf",
+    "copy": "books/彼得兔漫画伴读v1.1.pdf",
+    "pages": 20,
+    "bytes": 12905244,
+    "sourceSha256": "02543b6bbf9e0bad8a7eac1f67c76ca2d44b50a996824e4f425b2d7190655fc5",
+    "sha256": "b4ff4b82e1b20a12853c20d7b6b7fcc03befdbc658151615f95252f7b42ed97d",
+    "textPreserved": true,
+    "noticeHeightPoints": 46
+  },
+  {
+    "source": "books/彼得兔漫画伴读预览v1.0.pdf",
+    "copy": "books/彼得兔漫画伴读预览v1.1.pdf",
+    "pages": 20,
+    "bytes": 3854066,
+    "sourceSha256": "1b0500bff2253ad146f7999934e2de55ef5e4c77d2010471d8528e8b36eeb234",
+    "sha256": "e97175cfa35793b82efd0656c3245f087f07a9ef47a920b985d08ba5b802a50d",
+    "textPreserved": true,
+    "noticeHeightPoints": 46
+  }
+]

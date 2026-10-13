@@ -1,0 +1,71 @@
+{
+  "galleryFocusEnters": true,
+  "galleryTabFocusStates": [
+    {
+      "inDialog": true,
+      "active": "BUTTON"
+    },
+    {
+      "inDialog": true,
+      "active": "BUTTON"
+    },
+    {
+      "inDialog": true,
+      "active": "BUTTON"
+    },
+    {
+      "inDialog": true,
+      "active": "BUTTON"
+    },
+    {
+      "inDialog": true,
+      "active": "BUTTON"
+    },
+    {
+      "inDialog": true,
+      "active": "BUTTON"
+    }
+  ],
+  "galleryEscapeFocusRestores": true,
+  "galleryCloseButtonFocusRestores": true,
+  "versionedErrorPageLayouts": [
+    {
+      "width": 375,
+      "theme": "light",
+      "body": 375,
+      "clipped": []
+    },
+    {
+      "width": 375,
+      "theme": "dark",
+      "body": 375,
+      "clipped": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "body": 768,
+      "clipped": []
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "body": 768,
+      "clipped": []
+    },
+    {
+      "width": 1280,
+      "theme": "light",
+      "body": 1280,
+      "clipped": []
+    },
+    {
+      "width": 1280,
+      "theme": "dark",
+      "body": 1280,
+      "clipped": []
+    }
+  ],
+  "reducedMotionStylesPresent": true,
+  "errors": []
+}

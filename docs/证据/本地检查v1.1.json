@@ -1,0 +1,3091 @@
+{
+  "url": "http://127.0.0.1:8875/",
+  "htmlPages": 15,
+  "htmlErrors": [],
+  "localReferenceChecks": 512,
+  "links": [
+    {
+      "source": "404.html",
+      "reference": "course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "404.html",
+      "reference": "course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "404.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/404.html",
+      "status": 200
+    },
+    {
+      "source": "404.html",
+      "reference": "index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "404.html",
+      "reference": "index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "404.html",
+      "reference": "index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "404.html",
+      "reference": "index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "404.html",
+      "reference": "course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "examples/%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.py",
+      "url": "http://127.0.0.1:8875/examples/%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.py",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "examples/%E7%AB%A0%E8%8A%82%E6%95%B0%E6%8D%AEv1.1.json",
+      "url": "http://127.0.0.1:8875/examples/%E7%AB%A0%E8%8A%82%E6%95%B0%E6%8D%AEv1.1.json",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "examples/%E8%BE%93%E5%87%BA/%E4%BA%94%E9%A1%B5%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.pdf",
+      "url": "http://127.0.0.1:8875/examples/%E8%BE%93%E5%87%BA/%E4%BA%94%E9%A1%B5%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.pdf",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "docs/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.1.md",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "#showcase",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "#start",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "#workflow",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "#status",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "#contact",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "README.md",
+      "reference": "course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.0.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.0.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "examples/%E8%BE%93%E5%87%BA/%E4%BA%94%E9%A1%B5%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.0.pdf",
+      "url": "http://127.0.0.1:8875/examples/%E8%BE%93%E5%87%BA/%E4%BA%94%E9%A1%B5%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.0.pdf",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "examples/%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.0.py",
+      "url": "http://127.0.0.1:8875/examples/%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.0.py",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "examples/%E7%AB%A0%E8%8A%82%E6%95%B0%E6%8D%AEv1.0.json",
+      "url": "http://127.0.0.1:8875/examples/%E7%AB%A0%E8%8A%82%E6%95%B0%E6%8D%AEv1.0.json",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.0.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.0.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.0.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.0.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "docs/%E8%AF%BE%E7%A8%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8Ev1.0.md",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%BE%E7%A8%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8Ev1.0.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "docs/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.0.md",
+      "url": "http://127.0.0.1:8875/docs/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.0.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.0.md",
+      "reference": "docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.0.md",
+      "url": "http://127.0.0.1:8875/docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.0.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "examples/%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.py",
+      "url": "http://127.0.0.1:8875/examples/%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.py",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "examples/%E7%AB%A0%E8%8A%82%E6%95%B0%E6%8D%AEv1.1.json",
+      "url": "http://127.0.0.1:8875/examples/%E7%AB%A0%E8%8A%82%E6%95%B0%E6%8D%AEv1.1.json",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "examples/%E8%BE%93%E5%87%BA/%E4%BA%94%E9%A1%B5%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.pdf",
+      "url": "http://127.0.0.1:8875/examples/%E8%BE%93%E5%87%BA/%E4%BA%94%E9%A1%B5%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.pdf",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "docs/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.1.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "#showcase",
+      "url": "http://127.0.0.1:8875/READMEv1.1.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "#start",
+      "url": "http://127.0.0.1:8875/READMEv1.1.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "#workflow",
+      "url": "http://127.0.0.1:8875/READMEv1.1.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "#status",
+      "url": "http://127.0.0.1:8875/READMEv1.1.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "#contact",
+      "url": "http://127.0.0.1:8875/READMEv1.1.md",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "READMEv1.1.md",
+      "reference": "course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/course/00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../index.html#about",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../index.html#faq",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "#goals",
+      "url": "http://127.0.0.1:8875/course/00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "#explain",
+      "url": "http://127.0.0.1:8875/course/00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "#case",
+      "url": "http://127.0.0.1:8875/course/00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "#prompt",
+      "url": "http://127.0.0.1:8875/course/00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "#checklist",
+      "url": "http://127.0.0.1:8875/course/00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "#homework",
+      "url": "http://127.0.0.1:8875/course/00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "url": "http://127.0.0.1:8875/course/01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/00-课程导览v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/course/01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../index.html#about",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../index.html#faq",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "#goals",
+      "url": "http://127.0.0.1:8875/course/01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "#explain",
+      "url": "http://127.0.0.1:8875/course/01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "#case",
+      "url": "http://127.0.0.1:8875/course/01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "#prompt",
+      "url": "http://127.0.0.1:8875/course/01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "#checklist",
+      "url": "http://127.0.0.1:8875/course/01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "#homework",
+      "url": "http://127.0.0.1:8875/course/01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC03%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC03%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "url": "http://127.0.0.1:8875/course/00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "url": "http://127.0.0.1:8875/course/02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/01-从孩子出发v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/course/02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../index.html#about",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../index.html#faq",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "#goals",
+      "url": "http://127.0.0.1:8875/course/02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "#explain",
+      "url": "http://127.0.0.1:8875/course/02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "#case",
+      "url": "http://127.0.0.1:8875/course/02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "#prompt",
+      "url": "http://127.0.0.1:8875/course/02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "#checklist",
+      "url": "http://127.0.0.1:8875/course/02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "#homework",
+      "url": "http://127.0.0.1:8875/course/02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "url": "http://127.0.0.1:8875/course/01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "url": "http://127.0.0.1:8875/course/03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/02-选书与版权v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/course/03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../index.html#about",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../index.html#faq",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "#goals",
+      "url": "http://127.0.0.1:8875/course/03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "#explain",
+      "url": "http://127.0.0.1:8875/course/03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "#case",
+      "url": "http://127.0.0.1:8875/course/03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "#prompt",
+      "url": "http://127.0.0.1:8875/course/03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "#checklist",
+      "url": "http://127.0.0.1:8875/course/03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "#homework",
+      "url": "http://127.0.0.1:8875/course/03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "url": "http://127.0.0.1:8875/course/02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "url": "http://127.0.0.1:8875/course/04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/03-拆章与改编v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/course/04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../index.html#about",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../index.html#faq",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "#goals",
+      "url": "http://127.0.0.1:8875/course/04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "#explain",
+      "url": "http://127.0.0.1:8875/course/04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "#case",
+      "url": "http://127.0.0.1:8875/course/04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "#prompt",
+      "url": "http://127.0.0.1:8875/course/04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "#checklist",
+      "url": "http://127.0.0.1:8875/course/04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "#homework",
+      "url": "http://127.0.0.1:8875/course/04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC11%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC11%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "url": "http://127.0.0.1:8875/course/03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "url": "http://127.0.0.1:8875/course/05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/04-角色设定与一致性v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/course/05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../index.html#about",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../index.html#faq",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "#goals",
+      "url": "http://127.0.0.1:8875/course/05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "#explain",
+      "url": "http://127.0.0.1:8875/course/05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "#case",
+      "url": "http://127.0.0.1:8875/course/05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "#prompt",
+      "url": "http://127.0.0.1:8875/course/05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "#checklist",
+      "url": "http://127.0.0.1:8875/course/05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "#homework",
+      "url": "http://127.0.0.1:8875/course/05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC11%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC11%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "url": "http://127.0.0.1:8875/course/04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "url": "http://127.0.0.1:8875/course/06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/05-AI生图实战v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/course/06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../index.html#about",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../index.html#faq",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "#goals",
+      "url": "http://127.0.0.1:8875/course/06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "#explain",
+      "url": "http://127.0.0.1:8875/course/06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "#case",
+      "url": "http://127.0.0.1:8875/course/06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "#prompt",
+      "url": "http://127.0.0.1:8875/course/06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "#checklist",
+      "url": "http://127.0.0.1:8875/course/06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "#homework",
+      "url": "http://127.0.0.1:8875/course/06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC02%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC02%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC03%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC03%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC04%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC04%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC05%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC05%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC03%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC03%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "url": "http://127.0.0.1:8875/course/05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "url": "http://127.0.0.1:8875/course/07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/06-五页版式设计v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/course/07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../index.html#about",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../index.html#faq",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "#goals",
+      "url": "http://127.0.0.1:8875/course/07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "#explain",
+      "url": "http://127.0.0.1:8875/course/07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "#case",
+      "url": "http://127.0.0.1:8875/course/07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "#prompt",
+      "url": "http://127.0.0.1:8875/course/07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "#checklist",
+      "url": "http://127.0.0.1:8875/course/07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "#homework",
+      "url": "http://127.0.0.1:8875/course/07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../examples/%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.py",
+      "url": "http://127.0.0.1:8875/examples/%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.py",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../examples/%E7%AB%A0%E8%8A%82%E6%95%B0%E6%8D%AEv1.1.json",
+      "url": "http://127.0.0.1:8875/examples/%E7%AB%A0%E8%8A%82%E6%95%B0%E6%8D%AEv1.1.json",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../examples/%E8%BE%93%E5%87%BA/%E4%BA%94%E9%A1%B5%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.pdf",
+      "url": "http://127.0.0.1:8875/examples/%E8%BE%93%E5%87%BA/%E4%BA%94%E9%A1%B5%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.pdf",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC05%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC05%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "url": "http://127.0.0.1:8875/course/06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/07-自动排版v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../index.html#about",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../index.html#faq",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "#goals",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "#explain",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "#case",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "#prompt",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "#checklist",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "#homework",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC04%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC04%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "url": "http://127.0.0.1:8875/course/07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "url": "http://127.0.0.1:8875/course/09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/08-质检清单v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/course/09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../index.html#about",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../index.html#faq",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "#goals",
+      "url": "http://127.0.0.1:8875/course/09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "#explain",
+      "url": "http://127.0.0.1:8875/course/09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "#case",
+      "url": "http://127.0.0.1:8875/course/09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "#prompt",
+      "url": "http://127.0.0.1:8875/course/09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "#checklist",
+      "url": "http://127.0.0.1:8875/course/09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "#homework",
+      "url": "http://127.0.0.1:8875/course/09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC05%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC05%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "url": "http://127.0.0.1:8875/course/10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/09-亲子使用v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/course/10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../index.html#about",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../index.html#faq",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "#goals",
+      "url": "http://127.0.0.1:8875/course/10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "#explain",
+      "url": "http://127.0.0.1:8875/course/10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "#case",
+      "url": "http://127.0.0.1:8875/course/10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "#prompt",
+      "url": "http://127.0.0.1:8875/course/10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "#checklist",
+      "url": "http://127.0.0.1:8875/course/10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "#homework",
+      "url": "http://127.0.0.1:8875/course/10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "url": "http://127.0.0.1:8875/course/09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "11-%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BD%9C%E4%B8%9Av1.0.html",
+      "url": "http://127.0.0.1:8875/course/11-%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BD%9C%E4%B8%9Av1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/10-迁移到医学场景v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/course/11-%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BD%9C%E4%B8%9Av1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../index.html#about",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../index.html#faq",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "#goals",
+      "url": "http://127.0.0.1:8875/course/11-%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BD%9C%E4%B8%9Av1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "#explain",
+      "url": "http://127.0.0.1:8875/course/11-%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BD%9C%E4%B8%9Av1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "#case",
+      "url": "http://127.0.0.1:8875/course/11-%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BD%9C%E4%B8%9Av1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "#prompt",
+      "url": "http://127.0.0.1:8875/course/11-%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BD%9C%E4%B8%9Av1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "#checklist",
+      "url": "http://127.0.0.1:8875/course/11-%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BD%9C%E4%B8%9Av1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "#homework",
+      "url": "http://127.0.0.1:8875/course/11-%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BD%9C%E4%B8%9Av1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC05%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC05%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "url": "http://127.0.0.1:8875/course/10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "course/11-总结与作业v1.0.html",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.0.md",
+      "url": "http://127.0.0.1:8875/docs/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.0.md",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E6%9C%AC%E5%9C%B0%E6%A3%80%E6%9F%A5v1.0.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E6%9C%AC%E5%9C%B0%E6%A3%80%E6%9F%A5v1.0.json",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A3%80%E6%9F%A5v1.0.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A3%80%E6%9F%A5v1.0.json",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/Chrome%E5%A4%8D%E5%88%B6%E5%8F%8D%E9%A6%88v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/Chrome%E5%A4%8D%E5%88%B6%E5%8F%8D%E9%A6%88v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/Chrome%E6%89%8B%E6%9C%BA%E5%A4%8D%E5%88%B6%E5%8F%8D%E9%A6%88v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/Chrome%E6%89%8B%E6%9C%BA%E5%A4%8D%E5%88%B6%E5%8F%8D%E9%A6%88v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E7%B4%A0%E6%9D%90%E6%A0%B8%E5%AF%B9v1.0.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E7%B4%A0%E6%9D%90%E6%A0%B8%E5%AF%B9v1.0.json",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E7%A4%BA%E4%BE%8B%E8%BF%90%E8%A1%8Cv1.0.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E7%A4%BA%E4%BE%8B%E8%BF%90%E8%A1%8Cv1.0.json",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E7%A4%BA%E4%BE%8BPDF%E7%AC%AC1%E9%A1%B5v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E7%A4%BA%E4%BE%8BPDF%E7%AC%AC1%E9%A1%B5v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E9%A6%96%E9%A1%B5375%E6%B5%85%E8%89%B2v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E9%A6%96%E9%A1%B5375%E6%B5%85%E8%89%B2v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E7%AC%AC06%E8%AF%BE375%E6%B5%85%E8%89%B2v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E7%AC%AC06%E8%AF%BE375%E6%B5%85%E8%89%B2v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E7%AC%AC10%E8%AF%BE375%E6%B5%85%E8%89%B2v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E7%AC%AC10%E8%AF%BE375%E6%B5%85%E8%89%B2v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E9%A6%96%E9%A1%B5768%E6%B5%85%E8%89%B2v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E9%A6%96%E9%A1%B5768%E6%B5%85%E8%89%B2v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E7%AC%AC06%E8%AF%BE768%E6%B5%85%E8%89%B2v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E7%AC%AC06%E8%AF%BE768%E6%B5%85%E8%89%B2v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E7%AC%AC10%E8%AF%BE768%E6%B5%85%E8%89%B2v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E7%AC%AC10%E8%AF%BE768%E6%B5%85%E8%89%B2v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E9%A6%96%E9%A1%B51280%E6%B5%85%E8%89%B2v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E9%A6%96%E9%A1%B51280%E6%B5%85%E8%89%B2v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E7%AC%AC06%E8%AF%BE1280%E6%B5%85%E8%89%B2v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E7%AC%AC06%E8%AF%BE1280%E6%B5%85%E8%89%B2v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E7%AC%AC10%E8%AF%BE1280%E6%B5%85%E8%89%B2v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E7%AC%AC10%E8%AF%BE1280%E6%B5%85%E8%89%B2v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E9%A6%96%E9%A1%B51280%E6%B7%B1%E8%89%B2v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E9%A6%96%E9%A1%B51280%E6%B7%B1%E8%89%B2v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E7%AC%AC06%E8%AF%BE1280%E6%B7%B1%E8%89%B2v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E7%AC%AC06%E8%AF%BE1280%E6%B7%B1%E8%89%B2v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E7%AC%AC10%E8%AF%BE1280%E6%B7%B1%E8%89%B2v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E7%AC%AC10%E8%AF%BE1280%E6%B7%B1%E8%89%B2v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.0.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.0.md",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "证据/%E5%85%83%E6%95%B0%E6%8D%AE%E4%B8%8E%E9%9A%90%E7%A7%81%E6%A0%B8%E5%AF%B9v1.0.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E5%85%83%E6%95%B0%E6%8D%AE%E4%B8%8E%E9%9A%90%E7%A7%81%E6%A0%B8%E5%AF%B9v1.0.json",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "证据/%E8%A1%A5%E5%85%85%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A0%B8%E5%AF%B9v1.0.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E8%A1%A5%E5%85%85%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A0%B8%E5%AF%B9v1.0.json",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "证据/%E6%9C%AC%E5%9C%B0%E9%94%99%E8%AF%AF%E9%A1%B5375%E6%B5%85%E8%89%B2v1.0.png",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E6%9C%AC%E5%9C%B0%E9%94%99%E8%AF%AF%E9%A1%B5375%E6%B5%85%E8%89%B2v1.0.png",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.0.md",
+      "reference": "Hark%E4%BA%A4%E6%8E%A5%E8%AE%B0%E5%BD%95v1.0.md",
+      "url": "http://127.0.0.1:8875/docs/Hark%E4%BA%A4%E6%8E%A5%E8%AE%B0%E5%BD%95v1.0.md",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.1.md",
+      "reference": "%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.1.md",
+      "reference": "%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.1.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E6%9C%AC%E5%9C%B0%E6%A3%80%E6%9F%A5v1.1.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E6%9C%AC%E5%9C%B0%E6%A3%80%E6%9F%A5v1.1.json",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.1.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A3%80%E6%9F%A5v1.1.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A3%80%E6%9F%A5v1.1.json",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.1.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E7%A4%BA%E4%BE%8B%E4%BF%AE%E6%AD%A3%E5%A4%8D%E6%A0%B8v1.1.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E7%A4%BA%E4%BE%8B%E4%BF%AE%E6%AD%A3%E5%A4%8D%E6%A0%B8v1.1.json",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.1.md",
+      "reference": "%E8%AF%81%E6%8D%AE/%E5%85%AC%E5%BC%80%E5%89%AF%E6%9C%AC%E6%A0%B8%E5%AF%B9v1.1.json",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%81%E6%8D%AE/%E5%85%AC%E5%BC%80%E5%89%AF%E6%9C%AC%E6%A0%B8%E5%AF%B9v1.1.json",
+      "status": 200
+    },
+    {
+      "source": "docs/交付检查v1.1.md",
+      "reference": "%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "docs/素材与版权说明v1.2.md",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "../index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "../index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "../examples/%E8%BE%93%E5%87%BA/%E4%BA%94%E9%A1%B5%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.0.pdf",
+      "url": "http://127.0.0.1:8875/examples/%E8%BE%93%E5%87%BA/%E4%BA%94%E9%A1%B5%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.0.pdf",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "../examples/%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.0.py",
+      "url": "http://127.0.0.1:8875/examples/%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.0.py",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "../examples/%E7%AB%A0%E8%8A%82%E6%95%B0%E6%8D%AEv1.0.json",
+      "url": "http://127.0.0.1:8875/examples/%E7%AB%A0%E8%8A%82%E6%95%B0%E6%8D%AEv1.0.json",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.0.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.0.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.0.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.0.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "%E8%AF%BE%E7%A8%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8Ev1.0.md",
+      "url": "http://127.0.0.1:8875/docs/%E8%AF%BE%E7%A8%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8Ev1.0.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.0.md",
+      "url": "http://127.0.0.1:8875/docs/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.0.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.0.md",
+      "reference": "%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.0.md",
+      "url": "http://127.0.0.1:8875/docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.0.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "../index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "../examples/%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.py",
+      "url": "http://127.0.0.1:8875/examples/%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.py",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "../examples/%E7%AB%A0%E8%8A%82%E6%95%B0%E6%8D%AEv1.1.json",
+      "url": "http://127.0.0.1:8875/examples/%E7%AB%A0%E8%8A%82%E6%95%B0%E6%8D%AEv1.1.json",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "../examples/%E8%BE%93%E5%87%BA/%E4%BA%94%E9%A1%B5%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.pdf",
+      "url": "http://127.0.0.1:8875/examples/%E8%BE%93%E5%87%BA/%E4%BA%94%E9%A1%B5%E6%8E%92%E7%89%88%E7%A4%BA%E4%BE%8Bv1.1.pdf",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "../course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "../README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.1.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "../LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "#showcase",
+      "url": "http://127.0.0.1:8875/docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.1.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "#start",
+      "url": "http://127.0.0.1:8875/docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.1.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "#workflow",
+      "url": "http://127.0.0.1:8875/docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.1.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "#status",
+      "url": "http://127.0.0.1:8875/docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.1.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "#contact",
+      "url": "http://127.0.0.1:8875/docs/%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8Ev1.1.md",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "../course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "docs/英文说明v1.1.md",
+      "reference": "../course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "index.html#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "index.html#about",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "index.html#faq",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "url": "http://127.0.0.1:8875/course/00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "#books",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "./course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "./course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC02%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC02%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "./course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC03%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC03%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "./course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC04%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC04%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "./course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC05%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC05%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "./course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC11%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC11%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "./course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "./course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC02%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC02%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "./course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC03%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC03%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "./course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC04%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC04%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "./course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC05%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC05%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "./course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC11%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC11%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E7%BB%B4%E5%B0%BC%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "books/%E7%BB%B4%E5%B0%BC%E6%BC%AB%E7%94%BB%E4%BC%B4%E8%AF%BB%E9%A2%84%E8%A7%88v1.1.pdf",
+      "url": "http://127.0.0.1:8875/books/%E7%BB%B4%E5%B0%BC%E6%BC%AB%E7%94%BB%E4%BC%B4%E8%AF%BB%E9%A2%84%E8%A7%88v1.1.pdf",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "books/%E7%BB%B4%E5%B0%BC%E6%BC%AB%E7%94%BB%E4%BC%B4%E8%AF%BBv1.1.pdf",
+      "url": "http://127.0.0.1:8875/books/%E7%BB%B4%E5%B0%BC%E6%BC%AB%E7%94%BB%E4%BC%B4%E8%AF%BBv1.1.pdf",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "url": "http://127.0.0.1:8875/course/assets/pages/%E5%BD%BC%E5%BE%97%E5%85%94%E7%AC%AC01%E9%A1%B5v1.0.webp",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "books/%E5%BD%BC%E5%BE%97%E5%85%94%E6%BC%AB%E7%94%BB%E4%BC%B4%E8%AF%BB%E9%A2%84%E8%A7%88v1.1.pdf",
+      "url": "http://127.0.0.1:8875/books/%E5%BD%BC%E5%BE%97%E5%85%94%E6%BC%AB%E7%94%BB%E4%BC%B4%E8%AF%BB%E9%A2%84%E8%A7%88v1.1.pdf",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "books/%E5%BD%BC%E5%BE%97%E5%85%94%E6%BC%AB%E7%94%BB%E4%BC%B4%E8%AF%BBv1.1.pdf",
+      "url": "http://127.0.0.1:8875/books/%E5%BD%BC%E5%BE%97%E5%85%94%E6%BC%AB%E7%94%BB%E4%BC%B4%E8%AF%BBv1.1.pdf",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "url": "http://127.0.0.1:8875/course/00-%E8%AF%BE%E7%A8%8B%E5%AF%BC%E8%A7%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "url": "http://127.0.0.1:8875/course/01-%E4%BB%8E%E5%AD%A9%E5%AD%90%E5%87%BA%E5%8F%91v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "url": "http://127.0.0.1:8875/course/02-%E9%80%89%E4%B9%A6%E4%B8%8E%E7%89%88%E6%9D%83v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "url": "http://127.0.0.1:8875/course/03-%E6%8B%86%E7%AB%A0%E4%B8%8E%E6%94%B9%E7%BC%96v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "url": "http://127.0.0.1:8875/course/04-%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "url": "http://127.0.0.1:8875/course/05-AI%E7%94%9F%E5%9B%BE%E5%AE%9E%E6%88%98v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "url": "http://127.0.0.1:8875/course/06-%E4%BA%94%E9%A1%B5%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "url": "http://127.0.0.1:8875/course/07-%E8%87%AA%E5%8A%A8%E6%8E%92%E7%89%88v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "url": "http://127.0.0.1:8875/course/08-%E8%B4%A8%E6%A3%80%E6%B8%85%E5%8D%95v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "url": "http://127.0.0.1:8875/course/09-%E4%BA%B2%E5%AD%90%E4%BD%BF%E7%94%A8v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "url": "http://127.0.0.1:8875/course/10-%E8%BF%81%E7%A7%BB%E5%88%B0%E5%8C%BB%E5%AD%A6%E5%9C%BA%E6%99%AFv1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/11-%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BD%9C%E4%B8%9Av1.0.html",
+      "url": "http://127.0.0.1:8875/course/11-%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BD%9C%E4%B8%9Av1.0.html",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "url": "http://127.0.0.1:8875/docs/%E7%B4%A0%E6%9D%90%E4%B8%8E%E7%89%88%E6%9D%83%E8%AF%B4%E6%98%8Ev1.2.md",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E4%BA%A4%E4%BB%98%E6%A3%80%E6%9F%A5v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "README.md",
+      "url": "http://127.0.0.1:8875/README.md",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "LICENSE",
+      "url": "http://127.0.0.1:8875/LICENSE",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "url": "http://127.0.0.1:8875/docs/%E5%86%85%E5%AE%B9%E5%AE%A1%E9%98%85%E4%B8%8E%E5%8F%91%E5%B8%83%E8%AE%B0%E5%BD%95v1.1.md",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "index.html",
+      "reference": "course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    },
+    {
+      "source": "页面未找到v1.0.html",
+      "reference": "course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E5%9B%BE%E6%A0%87v1.0.svg",
+      "status": 200
+    },
+    {
+      "source": "页面未找到v1.0.html",
+      "reference": "course/assets/style.css",
+      "url": "http://127.0.0.1:8875/course/assets/style.css",
+      "status": 200
+    },
+    {
+      "source": "页面未找到v1.0.html",
+      "reference": "#main",
+      "url": "http://127.0.0.1:8875/%E9%A1%B5%E9%9D%A2%E6%9C%AA%E6%89%BE%E5%88%B0v1.0.html",
+      "status": 200
+    },
+    {
+      "source": "页面未找到v1.0.html",
+      "reference": "index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "页面未找到v1.0.html",
+      "reference": "index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "页面未找到v1.0.html",
+      "reference": "index.html",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "页面未找到v1.0.html",
+      "reference": "index.html#curriculum",
+      "url": "http://127.0.0.1:8875/index.html",
+      "status": 200
+    },
+    {
+      "source": "页面未找到v1.0.html",
+      "reference": "course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "url": "http://127.0.0.1:8875/course/assets/%E8%AF%BE%E7%A8%8B%E4%BA%A4%E4%BA%92v1.0.js",
+      "status": 200
+    }
+  ],
+  "privacySearchMatches": [],
+  "pdfTextPagesScanned": 145,
+  "fileCount": 113,
+  "totalBytes": 83428440,
+  "largestFile": {
+    "file": "books/维尼漫画伴读v1.1.pdf",
+    "bytes": 29483731
+  },
+  "actualScreenshots": 12,
+  "examplePages": 5,
+  "failures": []
+}

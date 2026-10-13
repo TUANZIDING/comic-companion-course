@@ -1,0 +1,16 @@
+{
+  "cleanPython": "3.12.4",
+  "directRequirement": "reportlab==4.4.9",
+  "defaultPages": 5,
+  "changedJsonReflectedInWordBox": true,
+  "invalidReferences": [
+    {
+      "type": "word",
+      "rejectedBeforeOutput": true
+    },
+    {
+      "type": "audio",
+      "rejectedBeforeOutput": true
+    }
+  ]
+}

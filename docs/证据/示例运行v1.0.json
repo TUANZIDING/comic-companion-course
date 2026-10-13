@@ -1,0 +1,19 @@
+{
+  "notice": "教学示例，非原始制作记录；本证据仅证明简化版式示例运行。",
+  "python": "Python 3.12.4",
+  "installedPackages": [
+    "charset-normalizer==3.5.2",
+    "pillow==12.3.0",
+    "reportlab==4.4.9"
+  ],
+  "directDependency": [
+    "reportlab==4.4.9"
+  ],
+  "command": "python examples/排版示例v1.0.py",
+  "exitCode": 0,
+  "output": "examples/输出/五页排版示例v1.0.pdf",
+  "pages": 5,
+  "font": "内置Helvetica；英文布局示范，中文教学字段保留在JSON/HTML",
+  "screenshot": "docs/证据/示例PDF第1页v1.0.png",
+  "visualReview": "已查看第1至5页渲染；占位插画、课文与活动版式清楚，未见裁切或文字溢出。"
+}

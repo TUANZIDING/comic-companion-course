@@ -1,0 +1,10 @@
+.DS_Store
+._*
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+
+# 原始文件不动；公开版本只提交加注声明后的v1.1 PDF。
+books/*v1.0.pdf
